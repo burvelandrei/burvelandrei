@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrei Burvel
+# Hi there 👋 I'm Andrei Burvel
 
 ## Stack:
 
