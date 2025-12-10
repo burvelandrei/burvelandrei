@@ -6,7 +6,9 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white) ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-3670A0?style=for-the-badge) ![Celery](https://img.shields.io/badge/CELERY-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ## My GitHub Stats
-![burvelandrei GitHub stats](https://githubcard.com/burvelandrei.svg?d=tBSx93rk)
+<div align="center">
+  <img src="https://githubcard.com/burvelandrei.svg?d=tBSx93rk" alt="GitHub Card" />
+</div>
 
 
 ## Contact me:
