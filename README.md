@@ -7,7 +7,7 @@
 
 ## My GitHub Stats
 <div align="center">
-  <img src="https://githubcard.com/burvelandrei.svg?d=q9nnnazt" alt="GitHub Card" />
+  <img src="https://githubcard.com/burvelandrei.svg?d=Gbe7mnKuWsUn" alt="GitHub Card" />
 </div>
 
 
